@@ -8,3 +8,6 @@ This repository contains my personal reflections and knowledge on various topics
 - [Git Version Control](https://glass-cone-ee8.notion.site/INTRO-TO-GIT-VERSION-CONTROL-25fe8da7217380a18edbd679b6a40cff)
 - [Docker and Docker Compose](https://glass-cone-ee8.notion.site/INTRO-TO-DOCKER-25fe8da7217380b5b0def2f7a49712d4?pvs=73)
 - [Linux and Deployment](https://glass-cone-ee8.notion.site/INTRO-TO-LINUX-25fe8da7217380588daecd1e735e33eb?pvs=73)
+- [Cloud Computing](https://glass-cone-ee8.notion.site/INTRO-TO-CLOUD-COMPUTING-25fe8da721738006b336c5bec232b4e4)
+- [Linux and Deployment](https://glass-cone-ee8.notion.site/INTRO-TO-LINUX-25fe8da7217380588daecd1e735e33eb?pvs=73)
+
